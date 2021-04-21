@@ -1,2 +1,3 @@
 # Big Data Analysis In HealthCare
+https://master.d20tq4z4rd8hea.amplifyapp.com/
 “Big data in healthcare” refers to the abundant health data amassed from numerous sources including electronic health records (EHRs), medical imaging, genomic sequencing, payor records, pharmaceutical research, wearables, and medical devices, to name a few. Three characteristics distinguish it from traditional electronic medical and human health data used for decision-making: It is available in extraordinarily high volume; it moves at high velocity and spans the health industry’s massive digital universe; and, because it derives from many sources, it is highly variable in structure and nature. This is known as the 3Vs of Big Data.
